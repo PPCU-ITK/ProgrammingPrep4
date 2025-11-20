@@ -1,6 +1,6 @@
 # **C++ Lecture 2: Type System Exercises**
 
-Welcome to your first C++ coding exercises! The goal here is to get a feel for the C++ static type system, especially coming from a language like Python.
+The goal here is to get a feel for the C++ static type system, especially coming from a language like Python.
 
 ## **Your Goal**
 
